@@ -1,0 +1,17 @@
+.list{
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    width: fit-content;
+    border-collapse: collapse;
+    /* border: 1px solid black; */
+}
+
+
+td{
+    width: 15rem;
+    text-align: center;
+    /* border: 1px solid black; */
+}
